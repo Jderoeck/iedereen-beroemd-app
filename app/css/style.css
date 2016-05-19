@@ -1,0 +1,196 @@
+body {
+    width: 360px;
+    /*height: 640px;*/
+    margin: auto;
+    padding: 0;
+
+}
+#timer{
+    width: 360px;
+    height: 30px;
+    background-color: #ffeacc;
+}
+#vidContainer{
+    width: 360px;
+    margin: 0;
+    padding: 0;
+}
+
+#gum{
+    width: 360px;
+    margin: 0;
+    padding: 0;
+}
+#recorded{
+    width: 360px;
+    margin: 0;
+    padding: 0;
+}
+.btn{
+    margin-top: -5px;
+    background-color: #ffeacc;
+    color: #d2094f;
+    border: none;
+    height: 50px;
+}
+#btns{
+    display: flex;
+    justify-content: center;
+}
+.welkom {
+    background-color: #ffeacc;
+}
+.centerscreen {
+    background-image: url(../images/screens-01.png);
+    background-size: 360px 640px;
+    width: 360px;
+    height: 640px;
+    background-position: center;
+    margin: auto;
+    
+}
+.vraagachtergrond {
+    background-image: url(../images/vraag.png);
+    background-size: 360px 640px;
+    width: 360px;
+    height: 640px;
+    background-position: center;
+    margin: auto;
+    
+}
+h3 {
+    color: #d2094f;
+    font: 'sans-serif';
+    display: block;
+    position: absolute;
+    top: 240px;
+    font-size: 1.5em;
+    width: 300px;
+    margin-left: 30px;
+    text-align: center;
+
+}
+.antwoord {
+    display: block;
+    position: absolute;
+    width: 160px;
+    height: 125px;
+    top: 435px;
+    margin-left: 15px;
+    
+}
+.ontdek {
+    display: block;
+    position: absolute;
+    width: 160px;
+    height: 125px;
+    top: 435px;
+    margin-left: 185px;
+}
+
+.login {
+    width: 360px;
+    height: 640px;
+    background-color: #ffeacc;
+    margin: 0;
+}
+.upperbar {
+    background-color: #f3bb24;
+    width: 360px;
+    height: 50px;
+}
+h2 {
+    color: #d2094f;
+    font: 'sans-serif';
+    display: block;
+    position: absolute;
+    top: -10px;
+    font-size: 1.5em;
+    width: 300px;
+    margin-left: 30px;
+    text-align: center;
+
+}
+.inputtext{
+    width: 300px;
+    margin-left: 25px;
+    height: 50px;
+    margin-top: 5px;
+}
+.accountknop {
+    background-color: #f3bb24;
+    margin-left: 25px;
+    margin-top: 5px;
+    width: 305px;
+    height: 50px;
+}
+.of {
+    color: #d2094f;
+    font: 'sans-serif';
+    display: block;
+    position: absolute;
+    margin-top: 6px;
+    font-size: 1.5em;
+    width: 300px;
+    margin-left: 30px;
+    text-align: center;
+} 
+.facebook {
+  
+    margin-left: 25px;
+    margin-top: 40px;
+    width: 305px;
+    height: 50px;
+    background-image: url(../images/icon-login-fb.png);
+    background-size: 305px 50px;
+}
+.feed {
+    width: 360px;
+    height: 640px;
+    background-color: black;
+    margin: 0;
+}
+.logo {
+    background-image: url(../images/logo%20klein.png);
+    width: 55px;
+    height: 50px;
+    background-repeat: no-repeat;
+    background-size: 55px 50px;
+    margin-left: 150px; 
+}
+.upperbar__feed {
+    background-color: #ffeacc;
+    width: 360px;
+    height: 50px;
+}
+.buttons{
+    display: flex;
+    justify-content:space-around;
+    align-items: flex-end;
+    margin-top: 540px;
+    
+}
+
+.populair {
+    width: 180px;
+    height: 50px;
+    background-color: #d2094f;
+    text-align: center;
+    
+    
+    
+}
+.nieuw {
+    width: 180px;
+    height: 50px;
+    background-color: #ffeacc;
+    text-align: center;
+    
+}
+h4{
+     color: #d2094f;
+}
+.h4populair {
+    color: #ffeacc;
+}
+
